@@ -1,4 +1,5 @@
-# 注意
+# 注意事项
+
   在加密解密方法的Cipher cipher = Cipher.getInstance("RSA/None/PKCS1Padding");语句中 ；
   getInstance（）里面的参数如果是本地加密解密就可以直接使用keyFactory.getAlgorithm()
   
